@@ -17,3 +17,10 @@ p {
 
 div 
 {background-color:aliceblue;}
+
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 5%;
+    color: #C2DED1;
+  }
