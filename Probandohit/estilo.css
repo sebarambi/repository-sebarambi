@@ -7,18 +7,21 @@ body {
 
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
     text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
 }
 
 p {
     background-color: #B7D3DF;
-    text-align: center;
     color: white;
 }
 
-div 
-{background-color:aliceblue;}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 70%;
+}
 
 hr {
     border-style: dotted none none;
