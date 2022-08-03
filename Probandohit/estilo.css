@@ -1,12 +1,27 @@
+body {
+    background: linear-gradient(to right,skyblue, lightgreen);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
 h1 {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
 p {
-    background-color: blue;
+    background-color: #B7D3DF;
     text-align: center;
+    color: white;
 }
 
 div 
 {background-color:aliceblue;}
+
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    width: 5%;
+    color: #C2DED1;
+  }
